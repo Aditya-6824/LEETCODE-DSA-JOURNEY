@@ -6,7 +6,7 @@
 <pre>
 <strong>Input:</strong> nums = [-10,-3,0,5,9]
 <strong>Output:</strong> [0,-3,9,-10,null,5]
-<strong>Explanation:</strong> [0,-10,5,null,-3,null,9] is also accepted:
+<strong>Explanation:</strong> [0,-10,5,null,-3,null,9] is alsobhhhh accepted:
 <img alt="" src="https://assets.leetcode.com/uploads/2021/02/18/btree2.jpg" style="width: 302px; height: 222px;" />
 </pre>
 
