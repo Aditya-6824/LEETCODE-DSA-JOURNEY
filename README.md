@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0016-3sum-closest) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Divide and Conquer
@@ -58,9 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0016-3sum-closest) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0016-3sum-closest) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
