@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 ## Two Pointers
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0024-swap-nodes-in-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
