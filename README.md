@@ -125,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
