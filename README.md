@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
 ## Greedy
 |  |
 | ------- |
