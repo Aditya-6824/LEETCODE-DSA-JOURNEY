@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0031-next-permutation) |
+| [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
