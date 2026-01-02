@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0054-spiral-matrix) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
