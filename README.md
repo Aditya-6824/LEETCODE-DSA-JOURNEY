@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 ## Linked List
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
