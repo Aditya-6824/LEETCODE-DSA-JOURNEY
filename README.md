@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0071-simplify-path) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
