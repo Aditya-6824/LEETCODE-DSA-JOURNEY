@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 | [0326-power-of-three](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0326-power-of-three) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0326-power-of-three) |
 ## Simulation
 |  |
