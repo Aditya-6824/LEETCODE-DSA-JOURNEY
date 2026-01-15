@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 ## Linked List
