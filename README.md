@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0145-binary-tree-postorder-traversal) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 ## Linked List
 |  |
@@ -213,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
 ## Design
 |  |
 | ------- |
