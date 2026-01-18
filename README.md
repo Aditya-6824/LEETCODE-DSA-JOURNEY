@@ -126,6 +126,7 @@ A collection of LeetCode questions
 | [0071-simplify-path](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
+| [0125-valid-palindrome](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2264-largest-3-same-digit-number-in-string) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions
 | [0031-next-permutation](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
 ## Sorting
