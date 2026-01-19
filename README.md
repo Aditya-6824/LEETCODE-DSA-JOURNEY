@@ -77,6 +77,7 @@ A collection of LeetCode questions
 | [0048-rotate-image](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0096-unique-binary-search-trees) |
 | [0326-power-of-three](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0326-power-of-three) |
 ## Dynamic Programming
@@ -174,6 +175,7 @@ A collection of LeetCode questions
 | [0077-combinations](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 ## Linked List
 |  |
@@ -237,6 +239,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0089-gray-code) |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
 ## Prefix Sum
 |  |
