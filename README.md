@@ -113,6 +113,7 @@ A collection of LeetCode questions
 | [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions
 | [0093-restore-ip-addresses](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0242-valid-anagram) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Two Pointers
@@ -162,6 +164,7 @@ A collection of LeetCode questions
 | [0056-merge-intervals](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0147-insertion-sort-list) |
+| [0242-valid-anagram](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
