@@ -45,6 +45,7 @@ A collection of LeetCode questions
 | [0053-maximum-subarray](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions
 | [0125-valid-palindrome](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
@@ -198,6 +200,7 @@ A collection of LeetCode questions
 | [0056-merge-intervals](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions
 | [0142-linked-list-cycle-ii](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -298,4 +302,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2438-range-product-queries-of-powers](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/2438-range-product-queries-of-powers) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Aditya-6824/LEETCODE-PRIVATE/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
